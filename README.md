@@ -1,4 +1,11 @@
 # GameShooter
-Basically an arcade game shooter.
+Basically an arcade game shooter !
 
-dont forget to install pygame
+ - Setup & Installation
+Ensure you have Python and Pygame installed, here's how to install pygame:
+
+       pip install pygame
+
+Then, clone this repository!
+
+Created with ❤️
