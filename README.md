@@ -1,2 +1,1 @@
 # GameShooter
-how
